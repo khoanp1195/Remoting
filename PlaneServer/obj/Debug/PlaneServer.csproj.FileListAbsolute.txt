@@ -1,0 +1,11 @@
+D:\LAB-KTPM\Remoting\PlaneServer\bin\Debug\PlaneServer.exe.config
+D:\LAB-KTPM\Remoting\PlaneServer\bin\Debug\PlaneServer.exe
+D:\LAB-KTPM\Remoting\PlaneServer\bin\Debug\PlaneServer.pdb
+D:\LAB-KTPM\Remoting\PlaneServer\bin\Debug\PlaneShare.dll
+D:\LAB-KTPM\Remoting\PlaneServer\bin\Debug\PlaneShare.pdb
+D:\LAB-KTPM\Remoting\PlaneServer\bin\Debug\PlaneShare.dll.config
+D:\LAB-KTPM\Remoting\PlaneServer\obj\Debug\PlaneServer.csproj.AssemblyReference.cache
+D:\LAB-KTPM\Remoting\PlaneServer\obj\Debug\PlaneServer.csproj.CoreCompileInputs.cache
+D:\LAB-KTPM\Remoting\PlaneServer\obj\Debug\PlaneServer.csproj.CopyComplete
+D:\LAB-KTPM\Remoting\PlaneServer\obj\Debug\PlaneServer.exe
+D:\LAB-KTPM\Remoting\PlaneServer\obj\Debug\PlaneServer.pdb

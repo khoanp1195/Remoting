@@ -1,0 +1,7 @@
+D:\LAB-KTPM\Remoting\PlaneShare\bin\Debug\PlaneShare.dll.config
+D:\LAB-KTPM\Remoting\PlaneShare\bin\Debug\PlaneShare.dll
+D:\LAB-KTPM\Remoting\PlaneShare\bin\Debug\PlaneShare.pdb
+D:\LAB-KTPM\Remoting\PlaneShare\obj\Debug\PlaneShare.csproj.AssemblyReference.cache
+D:\LAB-KTPM\Remoting\PlaneShare\obj\Debug\PlaneShare.csproj.CoreCompileInputs.cache
+D:\LAB-KTPM\Remoting\PlaneShare\obj\Debug\PlaneShare.dll
+D:\LAB-KTPM\Remoting\PlaneShare\obj\Debug\PlaneShare.pdb
